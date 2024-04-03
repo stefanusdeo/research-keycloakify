@@ -1,0 +1,48 @@
+
+.my-color {
+	color: red;
+}
+
+.my-font {
+	font-family: 'Work Sans';
+}
+
+.my-root-class {
+	background: white;
+}
+
+.my-root-class body {
+	background-color: white !important;
+}
+
+.my-button-login{
+	background-color: #ffdc07;
+    width: 100%;
+    border: 2px;
+    color: black;
+    font-size: 20px;
+	border-radius: 20px;
+}
+
+.my-input-root{
+	border-radius: 20px;
+	width: 100%;
+	padding: 10px;
+    border: 1px solid gray;
+}
+
+.my-card{
+	border-radius: 10px;
+    background-color: white;
+    margin: 10%;
+    padding: 20px;
+}
+
+.my-login{
+	background: rgb(243, 243, 243);
+    height: 100vh;
+}
+
+.alert{
+	border-radius: 20px !important;
+}
